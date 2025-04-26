@@ -1,0 +1,1 @@
+# LRU Cache (Least Recently Used) - Discards the least recently accessed item when full.

@@ -1,0 +1,1 @@
+# Two-Level Cache - Combines fast small cache (memory) + slower larger cache (disk or external service).

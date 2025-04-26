@@ -1,0 +1,1 @@
+# TTL Cache (Time-To-Live) - Items expire automatically after a set time, even if used.

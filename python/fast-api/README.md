@@ -1,4 +1,14 @@
-# Exploring FastAPI
+# Exploring FastAPI Systems
+
+Exploring system design patterns using FastAPI.
+
+## Topics
+- Batching
+- Caches
+- Counters
+- Pub Sub
+- Queues
+- Rate Limiters
 
 ## Get Started
 ### Local

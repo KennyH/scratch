@@ -1,0 +1,1 @@
+# LFU Cache (Least Frequently Used) - Discards the item accessed the fewest number of times.

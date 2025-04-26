@@ -1,0 +1,1 @@
+# FIFO Cache (First-In, First-Out) - Discards the oldest inserted item first (no regard for usage).

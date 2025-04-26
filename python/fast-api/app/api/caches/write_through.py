@@ -1,0 +1,1 @@
+# Write-Through Cache - When updating the cache, also immediately update the backend database.
