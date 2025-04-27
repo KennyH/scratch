@@ -16,4 +16,4 @@ async def root() -> dict:
 
 app.include_router(leaky_bucket.router, prefix="/rate-limiters/leaky-bucket", tags=["Rate Limiter"])
 
-app.include_router(basic.router, prefix="/ws", tages=["WebSockets"])
+app.include_router(basic.router, prefix="/ws", tags=["WebSockets"])
